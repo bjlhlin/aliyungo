@@ -9,9 +9,9 @@ import (
 
 	"fmt"
 
-	"github.com/denverdino/aliyungo/ecs"
+	"github.com/bjlhlin/aliyungo/ecs"
 
-	"github.com/denverdino/aliyungo/ram"
+	"github.com/bjlhlin/aliyungo/ram"
 )
 
 /*

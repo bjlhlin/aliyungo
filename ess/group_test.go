@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/denverdino/aliyungo/common"
+	"github.com/bjlhlin/aliyungo/common"
 )
 
 func TestEssScalingGroupCreationAndDeletion(t *testing.T) {

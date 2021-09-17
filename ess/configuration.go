@@ -2,8 +2,8 @@ package ess
 
 import (
 	"encoding/base64"
-	"github.com/denverdino/aliyungo/common"
-	"github.com/denverdino/aliyungo/ecs"
+	"github.com/bjlhlin/aliyungo/common"
+	"github.com/bjlhlin/aliyungo/ecs"
 )
 
 type CreateScalingConfigurationArgs struct {

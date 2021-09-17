@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/denverdino/aliyungo/cms/bytesbuffer"
+	"github.com/bjlhlin/aliyungo/cms/bytesbuffer"
 )
 
 /**

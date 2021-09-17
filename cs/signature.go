@@ -7,7 +7,7 @@ import (
 
 	"log"
 
-	"github.com/denverdino/aliyungo/util"
+	"github.com/bjlhlin/aliyungo/util"
 )
 
 func (client *Client) signRequest(request *http.Request) {

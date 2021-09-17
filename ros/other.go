@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/denverdino/aliyungo/common"
-	"github.com/denverdino/aliyungo/util"
+	"github.com/bjlhlin/aliyungo/common"
+	"github.com/bjlhlin/aliyungo/util"
 )
 
 //https://help.aliyun.com/document_detail/28925.html?spm=5176.doc28923.6.597.Wktzdg

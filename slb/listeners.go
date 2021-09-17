@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/denverdino/aliyungo/common"
+	"github.com/bjlhlin/aliyungo/common"
 )
 
 type ListenerStatus string

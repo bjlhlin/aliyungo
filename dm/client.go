@@ -1,7 +1,7 @@
 package dm
 
 import (
-	"github.com/denverdino/aliyungo/common"
+	"github.com/bjlhlin/aliyungo/common"
 )
 
 const (

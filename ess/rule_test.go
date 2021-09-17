@@ -3,8 +3,8 @@ package ess
 import (
 	"testing"
 
-	"github.com/denverdino/aliyungo/common"
-	"github.com/denverdino/aliyungo/util"
+	"github.com/bjlhlin/aliyungo/common"
+	"github.com/bjlhlin/aliyungo/util"
 )
 
 func TestEssScalingRuleCreationAndDeletion(t *testing.T) {

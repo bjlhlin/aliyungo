@@ -7,7 +7,7 @@ import (
 
 	"os"
 
-	"github.com/denverdino/aliyungo/common"
+	"github.com/bjlhlin/aliyungo/common"
 )
 
 func TestClient_CreateKey(t *testing.T) {

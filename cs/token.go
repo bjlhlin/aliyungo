@@ -2,7 +2,7 @@ package cs
 
 import (
 	"fmt"
-	"github.com/denverdino/aliyungo/common"
+	"github.com/bjlhlin/aliyungo/common"
 	"net/http"
 )
 
